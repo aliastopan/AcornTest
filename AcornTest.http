@@ -1,0 +1,6 @@
+@AcornTest_HostAddress = http://localhost:5196
+
+GET {{AcornTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
